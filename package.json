@@ -1,0 +1,28 @@
+{
+  "name": "coronavirusjs",
+  "version": "1.0.0",
+  "description": "Informative TBS about coronavirus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislavt/coronavirus-cli.git"
+  },
+  "keywords": [
+    "coronavirus",
+    "cli",
+    "rpg",
+    "console"
+  ],
+  "author": "Stanislav Tarasenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanislavt/coronavirus-cli/issues"
+  },
+  "homepage": "https://github.com/stanislavt/coronavirus-cli#readme",
+  "dependencies": {
+    "commander": "^4.1.1"
+  }
+}
